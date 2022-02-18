@@ -9,19 +9,19 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+            "value": "9048f053-4e28-43bd-9965-5de7f86c391f"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/tfvbh65/yl/blob/master/etc/CADDYIndexPage.md",
             "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/tfvbh65/yl/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/tfvbh65/yl/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lbingyi/XrayHeroku",
-    "repository": "https://github.com/Lbingyi/XrayHeroku",
+    "website": "https://github.com/tfvbh65/yl",
+    "repository": "https://github.com/tfvbh65/yl",
     "stack": "container"
 }
